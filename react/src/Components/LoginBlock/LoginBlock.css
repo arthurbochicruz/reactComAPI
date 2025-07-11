@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+
+.dev-elementor-input {
+    padding: 20px;
+    width: 350px;
+    height: 450px;
+    margin: 100px auto auto auto;
+    background-color: #292949;
+    border-radius: 20px;
+
+    text-align: center;
+}
+
+h1{
+    letter-spacing: 1.5px;
+    font-weight: 900;
+    font-family: 'Mulish', sans-serif;
+    color: #fff;
+}
+
+input {
+    color: #ffff;
+    margin-top: 20px;
+    background-color: #33324E;
+    padding: 10px;
+    border-radius: 30px;
+    border: none;
+    
+    
+}input::placeholder {
+    color: #ffffffc1;
+
+}input:hover {
+    transition: 1s;
+   background-color: #363467b9;
+   
+}
+
+.input-button {
+    width: 150px;
+    height: 35px;
+    padding: 5px;
+    margin: auto;
+    display: block;
+    margin-top: 20px;
+    color: #ffffffdc;
+}.input-button:hover {
+    transition: 1s;
+   background-color: #363467b9;
+}
