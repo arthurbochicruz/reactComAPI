@@ -45,7 +45,7 @@ function LoginBlock() {
     return (
         <div>
             <form className='dev-elementor-input'>
-                <h1>Faça seu login</h1>
+                <h1>Faça seu Login</h1>
 
                 <input type="text" placeholder='Nome' required/>
 

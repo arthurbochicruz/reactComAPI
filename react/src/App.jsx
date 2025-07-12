@@ -7,7 +7,7 @@ function App() {
   
   return (
     <div>
-        <LoginBlock />
+        <LoginBlock />       
     </div>     
   )
 }
